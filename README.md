@@ -11,14 +11,14 @@ is setting it up every time, so I made an easy to use template that I and many o
 
 ### 1. Clone Repo
 
-Github released [Github Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) which allows users to generate a new repo from a template repo that will have the exact same files and structure. You can generate your own repo from this template by using [this link](https://github.com/kyrelldixon/next-tailwind-typescript-starter/generate).
+Github released [Github Templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) which allows users to generate a new repo from a template repo that will have the exact same files and structure. You can generate your own repo from this template by using [this link](https://github.com/mmatongo/next-tailwind-typescript-boilerplate/generate).
 
 From there, you can clone your own repo and modify it however you like.
 
 If you would rather clone this repo, go to the command line and run:
 
 ```bash
-git clone https://github.com/kyrelldixon/next-tailwind-typescript-starter <your-project-name>
+git clone https://github.com/mmatongo/next-tailwind-typescript-boilerplate <your-project-name>
 cd <your-project-name>
 ```
 
